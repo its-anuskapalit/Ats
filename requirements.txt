@@ -1,0 +1,6 @@
+Python 3.12
+streamlit
+pdf2image
+PIL (Pillow)
+google-generativeai
+python-dotenv
