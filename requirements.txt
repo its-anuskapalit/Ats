@@ -1,6 +1,5 @@
-Python 3.12
 streamlit
 pdf2image
-PIL (Pillow)
+Pillow
 google-generativeai
 python-dotenv
