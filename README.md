@@ -31,6 +31,7 @@ streamlit run app.py
 ```
 
 ## 🎯 **Usage**  
+[Visit my Streamlit app](https://atscanner.streamlit.app/)
 1️⃣ **Enter the job description** in the text area.  
 2️⃣ **Upload your resume (PDF format).**  
 3️⃣ Click one of the buttons:
